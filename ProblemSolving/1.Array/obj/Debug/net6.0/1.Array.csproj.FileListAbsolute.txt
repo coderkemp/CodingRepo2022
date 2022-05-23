@@ -1,0 +1,15 @@
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\bin\Debug\net6.0\1.Array.exe
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\bin\Debug\net6.0\1.Array.deps.json
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\bin\Debug\net6.0\1.Array.runtimeconfig.json
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\bin\Debug\net6.0\1.Array.dll
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\bin\Debug\net6.0\1.Array.pdb
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\obj\Debug\net6.0\1.Array.csproj.AssemblyReference.cache
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\obj\Debug\net6.0\1.Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\obj\Debug\net6.0\1.Array.AssemblyInfoInputs.cache
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\obj\Debug\net6.0\1.Array.AssemblyInfo.cs
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\obj\Debug\net6.0\1.Array.csproj.CoreCompileInputs.cache
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\obj\Debug\net6.0\1.Array.dll
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\obj\Debug\net6.0\refint\1.Array.dll
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\obj\Debug\net6.0\1.Array.pdb
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\obj\Debug\net6.0\1.Array.genruntimeconfig.cache
+D:\CodeSpace\CodingRepo2022\ProblemSolving\1.Array\obj\Debug\net6.0\ref\1.Array.dll
